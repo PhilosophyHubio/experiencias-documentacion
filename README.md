@@ -2,7 +2,7 @@
 
 Parte del [proyecto PAPIME PE203625](https://github.com/lmichan/BIOliteraturaPE203625)
 
-En este espacio puedes encontrar los materiales de trabajo y los resultados de este esfuerzo por documentar las experiencias y las prácticas de documentación de estudiantes y docentes de la [Facultad de Ciencias](https://www.fciencias.unam.mx) de la UNAM.
+En este espacio puedes encontrar los materiales de trabajo y los resultados de este esfuerzo por documentar las experiencias y las prácticas de documentación de estudiantes y docentes de la [Facultad de Ciencias](https://www.fciencias.unam.mx) de la UNAM en el uso de literatura científica y para biociencias.
 
 En particular, como parte de esta iniciativa nos proponemos enfocarnos en cuatro tareas: Difusión, entrevistas encuestas y visualización.
 
@@ -24,3 +24,7 @@ En esta parte del proyecto nos enfocaremos en reunir información que nos permit
 Esta parte del proyecto se abocará a la producción de distintas formas de visualización, y de audición, que sirvan para documentar las prácticas y experiencias de la comunidad de la Facultad de Ciencias con respecto a las distintas fuentes de información disponibles para la práctica científica.
 
 Si estás interesadx en saber más sobre el proyecto o te interesa contribuir, por favor no dudes en contactarnos.
+
+## Financiamiento
+
+Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625
