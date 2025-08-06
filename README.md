@@ -4,7 +4,7 @@ Parte del [proyecto PAPIME PE203625](https://github.com/lmichan/BIOliteraturaPE2
 
 En este espacio puedes encontrar los materiales de trabajo y los resultados de este esfuerzo por documentar las experiencias y las prácticas de documentación de estudiantes y docentes de la [Facultad de Ciencias](https://www.fciencias.unam.mx) de la UNAM.
 
-En particular, como parte de esta iniciativa nos proponemos enfocarnos en las siguientes tareas.
+En particular, como parte de esta iniciativa nos proponemos enfocarnos en cuatro tareas: Difusión, entrevistas encuestas y visualización.
 
 ## Difusión
 
