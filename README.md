@@ -23,4 +23,4 @@ En esta parte del proyecto nos enfocaremos en reunir información que nos permit
 
 Esta parte del proyecto se abocará a la producción de distintas formas de visualización, y de audición, que sirvan para documentar las prácticas y experiencias de la comunidad de la Facultad de Ciencias con respecto a las distintas fuentes de información disponibles para la práctica científica.
 
-Si estás interesadx en el proyecto o te interesa participar, no dudes en contactarnos.
+Si estás interesadx en saber más sobre el proyecto o te interesa contribuir, por favor no dudes en contactarnos.
