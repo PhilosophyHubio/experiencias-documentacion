@@ -6,6 +6,11 @@ En este espacio puedes encontrar los materiales de trabajo y los resultados de e
 
 En particular, como parte de esta iniciativa nos proponemos enfocarnos en las siguientes tareas.
 
+## Difusión
+
+Esta actividad se centrá en generar materiles de difusión y comunicación sobre literatura, esecialmente acádemica para ciencia y biociencias y las herramientas para adecuadas para procesarla, diseñaremos msteriales como infografías, videos y audios.
+
+
 ## Entrevistas
 
 Esta parte de nuestro proyecto estará enfocada en realizar entrevistas informales con diversos integrantes de la comunidad de la Facultad de Ciencias a fin de documentar sus prácticas, sus experiencias y la forma en que contemplan su relación con las diversas fuentes de información disponibles actualmente, con las técnicas y los estándares de citado, así como con las tecnologías disponibles para facilitar esa actividad.
