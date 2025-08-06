@@ -8,7 +8,7 @@ En particular, como parte de esta iniciativa nos proponemos enfocarnos en las si
 
 ## Difusión
 
-Esta actividad se centrá en generar materiles de difusión y comunicación sobre literatura, esecialmente acádemica para ciencia y biociencias y las herramientas para adecuadas para procesarla, diseñaremos msteriales como infografías, videos y audios.
+Esta actividad se centrá en generar estrategías y materiales de difusión y comunicación sobre literatura, esecialmente acádemica para ciencia y biociencias y las herramientas para adecuadas para procesarla, diseñaremos mproductos como infografías, videos y audios.
 
 
 ## Entrevistas
