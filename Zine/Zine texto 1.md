@@ -51,7 +51,7 @@ Todo lo que agregues a tu biblioteca ya sea desde la app de escritorio o desde l
 
 Bueno, ahora que ya tenemos nuestra bibliografía, la respaldamos y la organizamos es la hora de la verdadera magia: citar nuestras fuentes en nuestro texto sin perder la cabeza. Afortunadamente Zotero es compatible con Microsoft Word, LibreOffice, Google Docs y Latex y tiene cerca de 9000 estilos de citas. 
 
-Zotero tiene disponible una serie de plugins para Word y otros procesadores de texto, todos se incluyen con Zotero y se deben instalar automáticamente para cada procesador de texto compatible en su ordenador al iniciar Zotero por primera vez.
+Zotero tiene disponible una serie de plugins para Word y otros procesadores de texto, todos se incluyen en el programa y se deben instalar automáticamente para cada procesador de texto compatible en tu compu al iniciar Zotero por primera vez.
 
 **LibreOffice Writer**
 
