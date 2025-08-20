@@ -33,7 +33,7 @@ Es muy útil tener tus fuentes organizadas según su función. Si estás investi
 
 **3.- Guardar fuentes**
 
-Una vez que tengas algunas fuentes, ya sean libros, artículos, o prácticamente lo que sea lo puedes agregar a tu colección y ahí lo tendrás para cuando lo requieras! Para hacer esto puedes usar la extensión de tu navegador, o desde la aplicación de tu compu agregar las fuentes a la colección simplemente arrastrando tu archivo a la colección. También lo puedes hacer mediante el identificador de un archivo o a mano con los siguientes iconos:
+Una vez que tengas algunas fuentes, ya sean libros, artículos, o prácticamente lo que sea lo puedes agregar a tu colección ¡y ahí lo tendrás para cuando lo requieras! Para hacer esto puedes usar la extensión de tu navegador, o desde la aplicación de tu compu agregar las fuentes a la colección simplemente arrastrando tu archivo a la colección. También lo puedes hacer mediante el identificador de un archivo o a mano con los siguientes iconos:
 
 ## Como NO perder tu bibliografía
 
@@ -43,7 +43,7 @@ Lo primero es crearte una cuenta, lo puedes hacer también desde la página ofic
 
 Después en tu aplicación de escritorio abres la ventana de preferencias y seleccionas la opción de sincronizar, inicias sesión y le picas a configurar sincronización. Ahí puedes seleccionar las opciones que te parezcan útiles.
 
-Ahora puedes acceder a tu biblioteca desde donde quieras únicamente iniciando sesión con tu cuenta de Zotero y todas tus fuentes están respaldadas en la nube! 
+¡Ahora puedes acceder a tu biblioteca desde donde quieras únicamente iniciando sesión con tu cuenta de Zotero y todas tus fuentes están respaldadas en la nube! 
 
 Todo lo que agregues a tu biblioteca ya sea desde la app de escritorio o desde la extensión del navegador se sincroniza y se guarda automáticamente, así que puedes quitarte ese estres de encima. 
 
@@ -105,7 +105,7 @@ Hack: funciona muy bien en proyectos de investigación colaborativos.
 **Exportar bibliografía rápida (drag & drop)**
 Arrastra una referencia desde Zotero y suéltala en cualquier campo de texto → se pega la cita lista en el formato elegido.
 
-Y muchas funciones más! Si te interesa descubrirlas todas puedes revisar la documentación oficial o pasearse un rato por los foros de Zotero. 
+¡Y muchas funciones más! Si te interesa descubrirlas todas puedes revisar la documentación oficial o pasearse un rato por los foros de Zotero. 
 
 ## Errores comunes (y cómo evitarlos)
 
