@@ -1,27 +1,28 @@
 ## Portada:
-Guia Practica ilustrada: como sobrevivir a tu bibliografía
+Cómo sobrevivir a tu bibliografía: Guía práctica ilustrada
 "Una guía no oficial pero muy necesaria para estudiantes y curiosos".
-Ilustración de portada
+[Ilustración de portada]()
 
 
 ## PRIMER CONTACTO
-Todo empezó un día, cuando mi carpeta de pdfs de dudosa procedencia pesaba más que mi conciencia y tenía el mismo orden que un plato de espagueti cuando de repente…
+Todo empezó un día, cuando mi carpeta de pdfs (de dudosa procedencia) pesaba más que mi conciencia y tenía el mismo orden que un plato de espagueti cuando de repente…
 
--Alien: Oye y porque no usas un gestor bibliográfico y asi es mas facil saber donde estan tus fuentes, de que van y cómo las debes de citar.
+-Alien: Oye y porque no usas un gestor bibliográfico y así es mas fácil saber dónde estan tus fuentes, de qué van y cómo las debes de citar.
+[comentario]: # (También podrías considerar usar un tlacuache. Recuerdo que alguien en la Facultad usó una imagen de un/una tlacuache, aunque no sé qué tanto éxito tuvo.)
 
 -Personaje: ¿cómo entraste a mi casa?
 
-Sigo sin saber como entro a mi casa, pero me dio curiosidad saber a qué se refería y busqué:
+Sigo sin saber cómo entro a mi casa, pero me dio curiosidad saber a qué se refería y busqué:
 
 **¿Qué es un gestor bibliográfico?**
 
 Resulta que un gestor bibliográfico es una herramienta que permite **recopilar, organizar y consultar tus fuentes bibliográficas**, además de facilitarte crear notas al pie de página y citas bibliográficas en tus documentos. 
 
-Existen varios gestores, algunos de pago como Mendeley que tiene una versión gratuita y otra de paga y  EndNote  otros gratuitos como Zotero, que además es de software libre. Al final el mejor es con el que mejor te acomodes, en mi caso me pareció muy útil Zotero. 
+Existen varios gestores, algunos de pago como Mendeley que tiene una versión gratuita y otra de paga, y EndNote. Otros gratuitos como Zotero, que además es software libre. Al final el mejor es con el que mejor te acomodes, en mi caso me pareció muy útil Zotero.
 
 ## Funcionamiento General
 
-En general todos los gestores bibliográficos tienen un uso parecido, mi nuevo roomie me explico como usar Zotero  !afortunadamente es muy sencillo! solo hay que seguir los siguientes pasos:
+En general todos los gestores bibliográficos tienen un uso parecido, mi nuevo roomie me explicó como usar Zotero. !Afortunadamente es muy sencillo!, sólo hay que seguir los siguientes pasos:
 
 **1.- Instalarlo**
 
@@ -35,11 +36,11 @@ Es muy útil tener tus fuentes organizadas según su función. Si estás investi
 
 Una vez que tengas algunas fuentes, ya sean libros, artículos, o prácticamente lo que sea lo puedes agregar a tu colección ¡y ahí lo tendrás para cuando lo requieras! Para hacer esto puedes usar la extensión de tu navegador, o desde la aplicación de tu compu agregar las fuentes a la colección simplemente arrastrando tu archivo a la colección. También lo puedes hacer mediante el identificador de un archivo o a mano con los siguientes iconos:
 
-## Como NO perder tu bibliografía
+## Cómo NO perder tu bibliografía
 
 A veces la tragedia ataca, se va la luz, se descompone la computadora o el gato camina sobre el teclado… Por eso es importante tener tu información en un lugar seguro. Con Zotero puedes sincronizar tu biblioteca y acceder a ella desde cualquier computadora. 
 
-Lo primero es crearte una cuenta, lo puedes hacer también desde la página oficial.
+Lo primero es crearte una cuenta: lo puedes hacer también desde la página oficial.
 
 Después en tu aplicación de escritorio abres la ventana de preferencias y seleccionas la opción de sincronizar, inicias sesión y le picas a configurar sincronización. Ahí puedes seleccionar las opciones que te parezcan útiles.
 
@@ -51,13 +52,12 @@ Todo lo que agregues a tu biblioteca ya sea desde la app de escritorio o desde l
 
 Bueno, ahora que ya tenemos nuestra bibliografía, la respaldamos y la organizamos es la hora de la verdadera magia: citar nuestras fuentes en nuestro texto sin perder la cabeza. Afortunadamente Zotero es compatible con Microsoft Word, LibreOffice, Google Docs y Latex y tiene cerca de 9000 estilos de citas. 
 
-Zotero tiene disponible una serie de plugins para Word y otros procesadores de texto, todos se incluyen en el programa y se deben instalar automáticamente para cada procesador de texto compatible en tu compu al iniciar Zotero por primera vez.
+Zotero tiene disponible una serie de plugins para Word y otros procesadores de texto. Todos se incluyen en el programa y se deben instalar automáticamente para cada procesador de texto compatible en tu compu al iniciar Zotero por primera vez.
 
 **LibreOffice Writer**
 
 Zotero va a generar una serie de botones en la barra superior, para citar podemos simplemente dar click en el primer botón y configurar nuestro estilo bibliográfico.
-Despues, solo tenemos que darle clic de nuevo a este boton justo en donde queremos poner nuestra cita, buscar nuestra fuente en la barra de color rojo y darle a la flechita.
-
+Despues, sólo tenemos que darle clic de nuevo a este boton justo en donde queremos poner nuestra cita, buscar nuestra fuente en la barra de color rojo y darle a la flechita.
 
 **Microsoft Word**
 
@@ -73,7 +73,7 @@ Para google docs vamos a ver en la parte superior la palabra Zotero, al darle cl
 
 Después de elegir el estilo con el que quieres citar, ya estás listo para agregar tus preferencias con un solo clic. 
 
-Para acceder a esta funcionalidad es posible que Zotero te pida que inicies sesión con tu cuenta de google. 
+Para acceder a esta funcionalidad es posible que Zotero te pida que inicies sesión con tu cuenta de Google. 
 
 **LaTEX**
 
@@ -88,7 +88,6 @@ Zotero tiene un montón de funciones que te hacen la vida (académica) un poco m
 
 ¿Estabas usando APA por pura costumbre y justo antes de entregar te piden Harvard? Con Zotero **puedes cambiar todo el estilo bibliográfico de tu documento en segundos:**
 Solo tienes que abrir el plugin de Zotero en tu procesador de texto → ir a Document Preferences → elegir el nuevo estilo… ¡y listo! Tu bibliografía y citas se transforman mágicamente.
-
 
 **Guardar capturas de pantalla o páginas web completas**
 No solo guarda referencias: con el botón del navegador puedes  guardar la página web completa (incluyendo el PDF si lo detecta).
@@ -105,13 +104,13 @@ Hack: funciona muy bien en proyectos de investigación colaborativos.
 **Exportar bibliografía rápida (drag & drop)**
 Arrastra una referencia desde Zotero y suéltala en cualquier campo de texto → se pega la cita lista en el formato elegido.
 
-¡Y muchas funciones más! Si te interesa descubrirlas todas puedes revisar la documentación oficial o pasearse un rato por los foros de Zotero. 
+¡Y muchas funciones más! Si te interesa descubrirlas todas puedes revisar la documentación oficial o pasearte un rato por los foros de Zotero. 
 
 ## Errores comunes (y cómo evitarlos)
 
 **1. Importar referencias y confiar ciegamente en los metadatos**
 Error: Descargar un PDF y asumir que Zotero te rellenó perfecto autor, año y título… cuando en realidad dice “Unknown” o trae todo en MAYÚSCULAS.
-**Solución: Siempre revisa y corrige manualmente en Zotero los campos más importantes (autor, año, título, revista).**
+**Solución: Siempre revisa y corrige manualmente en Zotero los campos más importantes (autor, año, título, revista). Si lo haces bien desde el principio no tendrás que volver a hacerlo nunca.**
 
 
 **2. Olvidar sincronizar**
@@ -134,7 +133,7 @@ Error: “Luego pongo las referencias, ahorita solo escribo”. Al final tienes 
 
 ## Recursos
 ## 
-Siempre puede que algo falle, o que queramos hacer una cosa que probablemente se puede hacer, no? pero no sabemos exactamente cómo. Bueno, para eso está la documentación y los consejos de muchas personas que han caminado los mismos caminos, ¡ah que bonita es la comunidad! Bueno, aca te dejamos algunos recursos que podrían servirte:
+Siempre puede que algo falle, o que queramos hacer una cosa que probablemente se puede hacer, no? pero no sabemos exactamente cómo. Bueno, para eso está la documentación y los consejos de muchas personas que han caminado los mismos caminos, ¡ah que bonita es la comunidad! Bueno, acá te dejamos algunos recursos que podrían servirte:
 
 
 **Documentación oficial de Zotero:**
@@ -144,7 +143,7 @@ https://www.zotero.org/support/
 
 https://www.youtube.com/watch?v=cOweYm7oaZI
 
-**Este Zine se hizo en el marco de un proyecto mucho mas grande, aca te dejamos la liga a nuestro repositorio en GitHub!**
+**Este Zine se hizo en el marco de un proyecto mucho más grande, aca te dejamos la liga a nuestro repositorio en GitHub!**
 
 https://github.com/lmichan/BIOliteraturaPE203625
 
