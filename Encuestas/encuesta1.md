@@ -12,26 +12,31 @@ Alumnos de la Facultad de Ciencias, UNAM.
 -	Áreas de interés de su carrera
 
 ### Posibles preguntas 
-¿Qué herramientas de búsqueda utilizas con mayor frecuencia? opc. mul.
+1. ¿Qué herramientas de búsqueda utilizas con mayor frecuencia? opc. mul.
 
-¿Conoces y/o utilizas algún metabuscador? si/no
+2. ¿Conoces y/o utilizas algún metabuscador? si/no
 
-Además del contenido de las clases, ¿Consultas la literatura de tus materias? si/no
+3. Además del contenido de las clases, ¿Consultas la literatura de tus materias? si/no
 
-¿Qué tipo de recursos bibliográficos consultas frecuentemente? opc. mul. ¿En qué formato? opc. mul. ¿Consideras que es el mejor formato? s/n ¿Por qué? abierta
+4. ¿Qué tipo de recursos bibliográficos consultas frecuentemente? opc. mul. ¿En qué formato? opc. mul. ¿Consideras que es el mejor formato? s/n ¿Por qué? abierta
 
-¿Consultas alguna base de datos para encontrar recursos bibliográficos? s/n ¿Cuál(es)? abierta
+5. ¿Consultas alguna base de datos para encontrar recursos bibliográficos? s/n ¿Cuál(es)? abierta
 
-¿Sueles consultar información acerca de tu carrera en alguna biblioteca pública? s/n
+6. ¿Sueles consultar información acerca de tu carrera en alguna biblioteca pública? s/n
 
-¿Sueles consultar bibliotecas digitales? s/n
+7. ¿Sueles consultar bibliotecas digitales? s/n
 
-¿Conoces alguna de las siguientes herramientas bibliográficas? Opc. mul. Zotero, EndNote, etc
+8. ¿Conoces alguna de las siguientes herramientas bibliográficas? Opc. mul. Zotero, EndNote, etc
 
-Durante el curso de tu carrera, ¿Se te ha asignado un trabajo de tipo resumen, opinión o ensayo? s/n
+9. Durante el curso de tu carrera, ¿Se te ha asignado un trabajo de tipo resumen, opinión o ensayo? s/n
 
-¿Consideras que es esperado de los alumnos conocer y utilizar herramientas de búsqueda? s/n ¿Consideras que es fácil para ti hacerlo? s/n
+10. ¿Consideras que es esperado de los alumnos conocer y utilizar herramientas de búsqueda? s/n ¿Consideras que es fácil para ti hacerlo? s/n
 
-¿Consideras que es esperado de los alumnos saber consultar fuentes de información y citarlas adecuadamente? s/n ¿Consideras que es fácil para ti hacerlo? s/n
+11. ¿Consideras que es esperado de los alumnos saber consultar fuentes de información y citarlas adecuadamente? s/n ¿Consideras que es fácil para ti hacerlo? s/n
 
-¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? s/n ¿Es de tu interés conocer más al respecto? s/n
+12. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? s/n ¿Es de tu interés conocer más al respecto? s/n
+
+
+### Comentarios
+
+Basandonos en la información estadística arrojada por esta encuesta se busca hacer la continuación desde otras encuestas, por ejemplo, si se observa que la gran mayoría de alumnos responde que no le parece fácil utilizar herramientas bibliográficas entonces, a través de la nueva encuesta, se buscará investigar el por qué. Esto con el fin de saber qué tipo de proyectos y contenidos beneficiarían a la comunidad de estudiantes de la FC. 
