@@ -18,7 +18,7 @@ Alumnos de la Facultad de Ciencias, UNAM.
   - Duckduckgo
   - Bing
   - Google scholar
-  - Asistentes IA (Siri, Alexa, etc)
+  - Asistentes IA (Siri, Alexa, Google Assistant, etc)
   - Otro
 
 
@@ -40,13 +40,24 @@ Alumnos de la Facultad de Ciencias, UNAM.
   - Digital (ejemplo: pdf, ebook, etc.)
   - No suelo consultarlos
 
-7. ¿Por qué sueles escoger este formato?
+7. De acuerdo con tu respuesta anterior, ¿Por qué sueles escoger este formato? abierta
 
 8. ¿Consideras que es fácil para ti consultar fuentes de información y citarlas adecuadamente? s/n 
 
-9. ¿Conoces la herramienta de gestación bibliográfica Zotero? s/n
+9. ¿Conoces la herramienta de gestación bibliográfica Zotero?
+    - Sí, la he usado
+    - Sí, he escuchado de ella
+    - No, no la conozco
 
-10. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? s/n ¿Es de tu interés conocer más al respecto? s/n
+
+11. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? ¿Es relevante para ti conocer más al respecto? 
+    
+    - Sí es útil y relevante para mí
+    - Sí es útil, pero no me parece relevante
+    - No es útil, pero sí me es relevante
+    - No es útil y no me es relevante
+   
+    #### (Pregunta más Crucial)
 
 
 ### Comentarios
