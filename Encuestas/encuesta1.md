@@ -50,14 +50,11 @@ Alumnos de la Facultad de Ciencias, UNAM.
     - No, no la conozco
 
 
-11. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? ¿Es relevante para ti conocer más al respecto? 
-    
-    - Sí es útil y relevante para mí
-    - Sí es útil, pero no me parece relevante
-    - No es útil, pero sí me es relevante
-    - No es útil y no me es relevante
+10. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? s/n
    
-    #### (Pregunta más Crucial)
+11. ¿Es relevante para ti conocer más acerca del uso y tipo de herramientas bibliográficas? s/n
+    
+    #### (10 y 11 Preguntas más Cruciales)
 
 
 ### Comentarios
