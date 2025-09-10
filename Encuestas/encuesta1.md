@@ -12,29 +12,43 @@ Alumnos de la Facultad de Ciencias, UNAM.
 -	Áreas de interés de su carrera
 
 ### Posibles preguntas 
-1. ¿Qué herramientas de búsqueda utilizas con mayor frecuencia? opc. mul.
+1. ¿Cuál de las siguientes herramientas de búsqueda utilizas frecuentemente? 
+Google
+ChatGPT Search
+Duckduckgo
+Bing
+Google scholar
+Asistentes IA (Siri, Alexa, etc)
+Otro
 
-2. ¿Conoces y/o utilizas algún metabuscador? si/no
 
-3. Además del contenido de las clases, ¿Consultas la literatura de tus materias? si/no
+2. ¿Consideras que es es fácil para ti utilizar herramientas de búsqueda? s/n
 
-4. ¿Qué tipo de recursos bibliográficos consultas frecuentemente? opc. mul. ¿En qué formato? opc. mul. ¿Consideras que es el mejor formato? s/n ¿Por qué? abierta
+3. ¿Sabes qué es un metabuscador? si/no
 
-5. ¿Consultas alguna base de datos para encontrar recursos bibliográficos? s/n ¿Cuál(es)? abierta
+4. Durante el curso de tu carrera, ¿Se te ha asignado un trabajo de tipo resumen, opinión o ensayo? s/n
 
-6. ¿Sueles consultar información acerca de tu carrera en alguna biblioteca pública? s/n
+5. ¿Sueles obtener información y/o recursos relacionados con tu carrera en bibliotecas físicas o digitales? 
+Sí, ambas
+Solo físicas
+Solo digitales
+No, en ninguna
 
-7. ¿Sueles consultar bibliotecas digitales? s/n
+6. ¿En qué formato sueles consultar recursos bibliográficos para realizar tus trabajos? 
 
-8. ¿Conoces alguna de las siguientes herramientas bibliográficas? Opc. mul. Zotero, EndNote, etc
+Físico (ejemplo: libro o revista impresos)
+Digital (ejemplo: pdf, ebook, etc.)
+No suelo consultarlos
 
-9. Durante el curso de tu carrera, ¿Se te ha asignado un trabajo de tipo resumen, opinión o ensayo? s/n
 
-10. ¿Consideras que es esperado de los alumnos conocer y utilizar herramientas de búsqueda? s/n ¿Consideras que es fácil para ti hacerlo? s/n
+7. ¿Por qué sueles escoger este formato?
 
-11. ¿Consideras que es esperado de los alumnos saber consultar fuentes de información y citarlas adecuadamente? s/n ¿Consideras que es fácil para ti hacerlo? s/n
+8. ¿Consideras que es fácil para ti consultar fuentes de información y citarlas adecuadamente? s/n 
 
-12. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? s/n ¿Es de tu interés conocer más al respecto? s/n
+9. ¿Conoces la herramienta de gestación bibliográfica Zotero?
+
+
+10. ¿Consideras que es útil conocer y utilizar diversos recursos bibliográficos? s/n ¿Es de tu interés conocer más al respecto? s/n
 
 
 ### Comentarios
