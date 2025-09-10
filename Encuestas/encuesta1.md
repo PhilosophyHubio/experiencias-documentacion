@@ -12,7 +12,7 @@ Alumnos de la Facultad de Ciencias, UNAM.
 -	Áreas de interés de su carrera
 
 ### Posibles preguntas 
-1. ¿Cuál de las siguientes herramientas de búsqueda utilizas frecuentemente?
+1. De las siguientes herramientas de búsqueda, elige aquellas que utilizas con mayor frecuencia.
   - Google
   - ChatGPT Search
   - Duckduckgo
