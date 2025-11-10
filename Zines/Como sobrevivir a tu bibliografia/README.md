@@ -35,13 +35,19 @@ Aquí puedes acceder a los recursos recomendados en el zine, a sus dos partes y 
 
 ## 📖 Lee el zine completo
 
-En las siguientes ligas puedes acceder a las dos partes del zine en **plataforma** o navegar las carpetas de este repositorio:
+En las siguientes ligas puedes acceder a las dos partes del zine en **Zenodo** o navegar las carpetas de este repositorio:
 
+Zenodo: (esta liga contiene tambien el DOI de la publicacion :D )
+- Primera parte: https://doi.org/10.5281/zenodo.17537609
+- Segunda Parte:  https://doi.org/10.5281/zenodo.17538340
+
+Github: 
 - Primera Parte ([liga])
 - Segunda Parte ([liga])
 
 Y a otros documentos como la guía para ensamblar tu zine (en caso de que lo quieras imprimir) y los archivos de impresión:
 
+- Guia de impresión 
 - Primera Parte - Archivos de impresión ([liga])
 - Segunda Parte - Archivos de impresión ([liga])
 
@@ -87,3 +93,4 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
