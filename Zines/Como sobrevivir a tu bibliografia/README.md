@@ -47,7 +47,7 @@ Github:
 
 Y a otros documentos como la guía para ensamblar tu zine (en caso de que lo quieras imprimir) y los archivos de impresión:
 
-- Guia de impresión 
+- [Guía de impresión del zine](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Guia_Impresion_Zine.MD)
 - Primera Parte - Archivos de impresión ([liga])
 - Segunda Parte - Archivos de impresión ([liga])
 
@@ -93,4 +93,5 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
