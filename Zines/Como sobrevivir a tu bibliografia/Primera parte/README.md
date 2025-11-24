@@ -1,8 +1,18 @@
-Se vierten en esta carpeta los contenidos pertinentes a la primera parte del zine "Cómo sobrevivir a tu bibliografía".  
+# Primera Parte del Zine: "Cómo sobrevivir a tu bibliografía"
 
-Ambos archivos son una previsualizacion, ahora ya con los elementos gráficos requeridos. 
+Bienvenido/a a la carpeta dedicada a la primera e entrega de nuestro zine **"Cómo sobrevivir a tu bibliografía"**. Aquí encontrarás todos los materiales necesarios para disfrutar, compartir y sobrevivir (¡una vez más!) entre libros y referencias.
 
-Esta carpeta contiene los documentos:  
+## ¿Qué puedes encontrar aquí?
 
-- **Z1P1_AspectoDigital.pdf**: Muestra una vista previa de la distribución, imágenes y contenido de la primera parte del zine para su distribución digital.  
-- **Z1P1_DisenoImpresion.pdf**: Muestra el diseño de impresión para la primera parte del zine. Este documento contiene la distribución de contenidos necesaria para el ensamblaje de los zines físicos, los cuales posteriormente serán distribuidos de forma física. La impresion que contempla es en dos hojas a doble cara, dobladas a la mitan y unidas por el centro. 
+- **TextoZ1P1.MD:**  
+  El texto íntegro de la segunda parte del zine en formato markdown. Ideal para lectura rápida, consulta y edición.
+
+- **Z1P1_Digital.pdf:**  
+  Versión en PDF, especialmente diseñada para una experiencia de lectura digital óptima.
+
+- **Z1P1_Impresion.pdf:**  
+  Versión en PDF lista para imprimir, perfecta si prefieres tener el zine en tus manos de manera física.
+
+---
+
+¡Explora, comparte y recuerda: en la bibliografía, sobrevivimos juntos!
