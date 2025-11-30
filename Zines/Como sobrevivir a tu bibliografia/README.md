@@ -9,7 +9,7 @@
 > Los contenidos de esta carpeta son:
 > - **Primera Parte**: Archivos relacionados con la primera parte de este zine.
 > - **Segunda Parte**: Archivos relacionados con la segunda parte de este zine.
-> - **Versión anterior**: Archivos de la versión original de este zine, la cual ha sido reemplazada por la edición en dos partes.
+> - **Prototipo**: Archivos de la versión original de este zine, la cual ha sido reemplazada por la edición en dos partes.
 
 ---
 
@@ -72,7 +72,7 @@ Aquí están las ligas recomendadas en el zine, además de otros recursos que pu
 
 ## 🌟 Otros proyectos
 
-Texto...
+- [PhilosophyHub](#)
 
 ---
 
@@ -93,5 +93,6 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
 
