@@ -7,8 +7,8 @@
 
 > **Bienvenido** al _README.md_ de nuestro Zine "Cómo sobrevivir a tu bibliografía".  
 > Los contenidos de esta carpeta son:
-> - **[Primera Parte](./Primera parte/)**: Archivos relacionados con la primera parte de este zine.
-> - **[Segunda Parte](./Segunda parte/)**: Archivos relacionados con la segunda parte de este zine.
+> - **[Primera Parte](./Primera parte)**: Archivos relacionados con la primera parte de este zine.
+> - **[Segunda Parte](./Segunda parte)**: Archivos relacionados con la segunda parte de este zine.
 > - **[Prototipo](./Prototipo)**: Archivos de la versión original de este zine, la cual ha sido reemplazada por la edición en dos partes.
 
 ---
@@ -93,6 +93,7 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
 
 
