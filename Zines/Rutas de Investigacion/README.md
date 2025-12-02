@@ -26,7 +26,7 @@
 
 En el marco del proyecto **PAPIME PE203625** se han desarrollado diferentes materiales.  
 Este documento complementa el zine "Rutas de investigación: Registrar, seguir y reproducir el camino de las ideas.  
-Aquí puedes acceder a los recursos recomendados en el zine, a sus dos partes y a los archivos de impresión/lectura digital, entre otras cosas.
+Aquí puedes acceder a los recursos recomendados en el zine y a los archivos de impresión/lectura digital, entre otras cosas.
 
 ---
 
@@ -53,3 +53,4 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
