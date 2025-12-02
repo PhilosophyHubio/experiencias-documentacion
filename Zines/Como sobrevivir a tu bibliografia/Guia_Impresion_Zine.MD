@@ -13,7 +13,7 @@ Aquí encontrarás todo lo necesario para imprimir y ensamblar tu propio ejempla
 
 Sigue la guía de ensamblaje incluida a continuación para dar forma a tu zine una vez impresas todas las páginas.
 
-![Guía de ensamblaje](https://raw.githubusercontent.com/PhilosophyHubio/experiencias-documentacion/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Prototipo/como%20ensamblar%20copy.png)
+![Guía de ensamblaje](https://raw.githubusercontent.com/PhilosophyHubio/experiencias-documentacion/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Version_Anterior/como%20ensamblar%20copy.png)
 
 ---
 
