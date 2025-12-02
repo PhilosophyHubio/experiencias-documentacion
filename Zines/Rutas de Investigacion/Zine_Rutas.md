@@ -31,6 +31,8 @@ Tener una ruta de investigación clara nos beneficia a todxs. Es parte de las bu
 ### Cómo trazar tu ruta
 (a dibujar sobre un mapa, diagrama de flujo o similar. Con la posibilidad de dejar espacio en blanco para que funcione como una suerte de plantilla o empleando el ejemplo)(también mencionar otras formas de "plasmar una ruta")
 
+Para trazar tu ruta basta con registrar los pasos que sigues mientras investigas. Puedes hacerlo como un mapa, un diagrama de flujo o cualquier formato que te ayude a visualizar tu proceso. Lo importante es dejar constancia de cómo llegaste de tu punto de partida a las fuentes que realmente usaste. Aquí te dejamos un esquema general de los puntos clave de una ruta de investigación. 
+
 **Punto de partida**
 Es tu pregunta o lectura inicial, la motivación de tu investigación.
 **Búsqueda**
@@ -61,9 +63,26 @@ Es una buena práctica registrar tu ruta y fuentes conforme vas trabajando, así
 **Haz visible tu proceso, no sólo el resultado.**
 Registra tu proceso, puede ser una bitácora, un diagrama, un anexo o lo que prefieras que sea claro para los demás. Así tienes registro de tu proceso y no sólo del producto final. Si cometiste algún error, así será mucho más fácil para ti o alguien más el corregirlo.
 
-
 ## Contraportada
+### Ilustraciones:
 
-Investigar es un viaje. Si trazas tu ruta, siempre podrás volver a encontrar el camino… y ayudar a que otrxs lo recorran también.
+    Páginas [1, 4]: Detalles de "An Anciente Mappe of Fairyland" por Bernard Sleigh, c. 1920. Cortesía del Norman B. Leventhal Map & Education Center, vía The Public Domain Review.
 
-(Recursos, QR)
+    Páginas [2, 3]: Detalle de "Iluminación: Evrard d'Espinques, para De Proprietatibus Rerum", c. 1480. Bibliothèque nationale de France. vía The Public Domain Review.
+
+    Páginas [2, 3]: Carta estelar: John Flamsteed, Atlas Céleste, 1795. United States Naval Observatory Library, vía The Public Domain Review.
+
+    Página [4]: Criatura fantástica: Zakariya al-Qazwini, Marvels of Things Created and Miraculous Aspects of Things Existing , c. siglo XVII. National Library of Medicine, vía The Public Domain Review.
+
+    Página [5]: Figuras 158 y 200 de Electro-physiology por Wilhelm Biedermann, 1896-98. Biodiversity Heritage Library, vía Internet Archive.
+
+**Investigar es un viaje. Si trazas tu ruta, siempre podrás volver a encontrar el camino… y ayudar a que otros lo recorran también.**
+
+### Otros Recursos
+
+Este pequeño zine es solo una pieza dentro de un proyecto más grande sobre bioliteratura y buenas prácticas académicas. Si quieres seguir explorando caminos, mapas y herramientas para investigar mejor, te invitamos a escanear el QR y visitar nuestro repositorio en GitHub, donde encontrarás otros recursos útiles para navegar las practicas académicas.
+
+
+Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625
+
+
