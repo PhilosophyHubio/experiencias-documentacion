@@ -2,6 +2,7 @@ Se vierten aquí los contenidos pertinentes el segundo zine "Rutas de investigac
 Incluye:  
 
 - **Zine_Rutas.md**: Contiene el texto propuesto para este zine.
+
 - **Z2P1_Digital.pdf:**  
   Versión en PDF, especialmente diseñada para una experiencia de lectura digital óptima.
 
