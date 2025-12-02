@@ -31,6 +31,8 @@ Tener una ruta de investigación clara nos beneficia a todxs. Es parte de las bu
 ### Cómo trazar tu ruta
 (a dibujar sobre un mapa, diagrama de flujo o similar. Con la posibilidad de dejar espacio en blanco para que funcione como una suerte de plantilla o empleando el ejemplo)(también mencionar otras formas de "plasmar una ruta")
 
+Para trazar tu ruta basta con registrar los pasos que sigues mientras investigas. Puedes hacerlo como un mapa, un diagrama de flujo o cualquier formato que te ayude a visualizar tu proceso. Lo importante es dejar constancia de cómo llegaste de tu punto de partida a las fuentes que realmente usaste. Aquí te dejamos un esquema general de los puntos clave de una ruta de investigación. 
+
 **Punto de partida**
 Es tu pregunta o lectura inicial, la motivación de tu investigación.
 **Búsqueda**
@@ -82,4 +84,5 @@ Este pequeño zine es solo una pieza dentro de un proyecto más grande sobre bio
 
 
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625
+
 
