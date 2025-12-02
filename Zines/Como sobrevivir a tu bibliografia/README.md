@@ -78,7 +78,7 @@ Aquí están las ligas recomendadas en el zine, además de otros recursos que pu
 
 ## 🤝 Comunidad
 
-Sigue nuestro proyecto en Mastodon con el hashtag [#PE203625](liga)
+Sigue nuestro proyecto en Mastodon con el hashtag [#PE203625](https://mastodon.social/tags/pe203625)
 
 > 💡 **Tip:** Consulta la [página](https://github.com/...) para ver otros de nuestros proyectos.
 
