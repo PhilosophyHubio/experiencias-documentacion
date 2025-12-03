@@ -5,15 +5,16 @@ En el zine anterior…
 
 Un alien entró a mi casa… y me enseñó a usar Zotero
 
-Alien - Los gestores bibliográficos y que sirven para tener recopilar, organizar y consultar fuentes bibliográficas…
+Alien - Los gestores bibliográficos y que sirven para tener recopilar, organizar y consultar fuentes bibliográficas
 
-Personaje - Bro esa no es mi alacena
+Personaje - Oye Bro esa alacena no es mia...
 
 Aprendí el funcionamiento básico, a sincronizar mi bibliografía y a usar Zotero para insertar citas en diferentes procesadores de texto pero mi nuevo roomie tenía todavía algunos trucos bajo la manga…
 
 Alien - Una rebanada más de pizza y te enseño unos tremendos hacks
 
 Personaje - bueno va 
+
 ## Otros hacks:
 
 Zotero tiene un montón de funciones que te hacen la vida (académica) un poco más fácil, algunas de las menos conocidas pero muy útiles son:
@@ -70,3 +71,4 @@ Error: “Luego pongo las referencias, ahorita solo escribo”. Al final tienes 
 
 
 ## Recursos
+
