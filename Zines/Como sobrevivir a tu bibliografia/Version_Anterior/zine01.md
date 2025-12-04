@@ -3,6 +3,7 @@ Cómo sobrevivir a tu bibliografía: Guía práctica ilustrada
 "Una guía no oficial pero muy necesaria para estudiantes y curiosos".
 [Ilustración de portada]()
 
+# Primera Parte
 
 ## PRIMER CONTACTO
 Todo empezó un día, cuando mi carpeta de pdfs (de dudosa procedencia) pesaba más que mi conciencia y tenía el mismo orden que un plato de espagueti cuando de repente…
@@ -81,6 +82,26 @@ Usar Zotero con LaTEX no es cosa del otro mundo, lo que puedes hacer es crear un
 
 Si te gustaría mantener tus .bib automáticamente sincronizados lo que puedes hacer es Instalar y activar el complemento Better BibTEX para Zotero, lo puedes configurar desde tu aplicación de escritorio y seguir un proceso similar al anterior. 
 
+# Segunda Parte
+
+## En el zine anterior
+
+(Principalmente ilustraciones y narrativa)
+
+En el zine anterior…
+
+Un alien entró a mi casa… y me enseñó a usar Zotero
+
+Alien - Los gestores bibliográficos y que sirven para tener recopilar, organizar y consultar fuentes bibliográficas
+
+Personaje - Oye Bro esa alacena no es mia...
+
+Aprendí el funcionamiento básico, a sincronizar mi bibliografía y a usar Zotero para insertar citas en diferentes procesadores de texto pero mi nuevo roomie tenía todavía algunos trucos bajo la manga…
+
+Alien - Una rebanada más de pizza y te enseño unos tremendos hacks
+
+Personaje - bueno va 
+
 ## Otros hacks:
 
 Zotero tiene un montón de funciones que te hacen la vida (académica) un poco más fácil, algunas de las menos conocidas pero muy útiles son:
@@ -136,24 +157,32 @@ Error: “Luego pongo las referencias, ahorita solo escribo”. Al final tienes 
 Siempre puede que algo falle, o que queramos hacer una cosa que probablemente se puede hacer, ¿no?, pero no sabemos exactamente cómo. Bueno, para eso está la documentación y los consejos de muchas personas que han caminado los mismos caminos, ¡ah que bonita es la comunidad! Bueno, acá te dejamos algunos recursos que podrían servirte:
 
 
-**Documentación oficial de Zotero:**
+Documentación oficial de Zotero:
+
 https://www.zotero.org/support/
 
-**Un video que nos pareció muy útil:**
+Un video que nos pareció muy útil:
 
 https://www.youtube.com/watch?v=cOweYm7oaZI
 
-**Este Zine se hizo en el marco de un proyecto mucho más grande, acá te dejamos la liga a nuestro repositorio en GitHub!**
+Plugin para Latex Better BibTex for Zotero:
 
-https://github.com/lmichan/BIOliteraturaPE203625
+https://tinyurl.com/yc3pbsv6
 
-**Plugin para Latex Better BibTex for Zotero:**
-https://retorque.re/zotero-better-bibtex/installation/index.html
-
-**y una guía simple para usarlo**
+y una guía simple para usarlo
  
 https://libguides.rhul.ac.uk/referencing/Zoterolatex
 
+Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625
 
-Recuerda, la bibliografía no tiene porque ser un dolor de cabeza. ¡Citar el trabajo de otrxs y compartir el propio nos beneficia a todxs!
+Alien - Este Zine tiene 2 partes, encuéntralas junto con las ligas de los recursos en este QR
 
+(QR que direcciona a archivo README.MD)
+
+Personaje - Recuerda, la bibliografía no tiene porque ser un dolor de cabeza. ¡Citar el trabajo de otrxs y compartir el propio nos beneficia a todxs!
+
+DOI
+10.5281/zenodo.17537609 (parte 1) / 10.5281/zenodo.17538340 (Parte 2)
+¡Encuéntranos en Zenodo!
+
+(QR que direcciona a Zenodo)
