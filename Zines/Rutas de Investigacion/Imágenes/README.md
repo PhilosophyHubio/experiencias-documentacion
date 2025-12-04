@@ -4,7 +4,7 @@ Esta carpeta contiene una descripción de las imágenes empleadas para la elabor
 
 ## Introducción
 
-![Pagina1](Imágenes/Im1.png)
+![Pagina1](Im1.png)
 
 Detalles de "An Anciente Mappe of Fairyland" por Bernard Sleigh, c. 1920. Cortesía del Norman B. Leventhal Map & Education Center, vía The Public Domain Review. Disponible en https://publicdomainreview.org/collection/an-anciente-mappe-of-fairyland/
 
@@ -14,7 +14,7 @@ Public Domain No Additional Rights
 
 ## Ruta de Investigación - Cómo trazar tu ruta
 
-![Pagina2-3](Imágenes/Im2.png)
+![Pagina2-3](Im2.png)
 
 Izquierda: Detalle de "Iluminación: Evrard d'Espinques, para De Proprietatibus Rerum", c. 1480. Bibliothèque nationale de France. vía The Public Domain Review. Disponible en https://publicdomainreview.org/collection/the-celestial-atlas-of-flamsteed-1795/
 
@@ -27,7 +27,7 @@ Public Domain No Additional Rights
 
 ## Buenas Prácticas
 
-![Pagina4-5](Imágenes/Im3.png)
+![Pagina4-5](Im3.png)
 
 Izquierda: Criatura fantástica: Zakariya al-Qazwini, Marvels of Things Created and Miraculous Aspects of Things Existing , c. siglo XVII. National Library of Medicine, vía The Public Domain Review. Disponible en https://publicdomainreview.org/collection/marvels-of-things-created-and-miraculous-aspects-of-things-existing/
 
