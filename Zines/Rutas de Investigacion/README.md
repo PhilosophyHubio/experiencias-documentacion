@@ -46,11 +46,15 @@ Sigue nuestro proyecto en Mastodon con el hashtag [#PE203625](liga)
 
 ## ⚖️ Licencia y agradecimientos
 
-Este proyecto está bajo la licencia MIT.  
+La informaci[on pertinente a las imágenes empleadas estan disponibles en [aqui](https://github.com/PhilosophyHubio/experiencias-documentacion/tree/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes)
+
+Este proyecto está bajo la licencia CC01.  
 ¡Úsalo, mejora y comparte!  
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+[![CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
