@@ -30,31 +30,58 @@ Aquí puedes acceder a los recursos recomendados en el zine y a los archivos de 
 
 ---
 
+
+## 📖 Lee el zine completo
+
+En las siguientes ligas puedes acceder a el zine en **Zenodo** o navegar las carpetas de este repositorio:
+
+Zenodo: (esta liga contiene tambien el DOI de la publicacion :D )
+- Zine "Rutas de Investigación": https://doi.org/...
+
+Github: 
+- Zine para lectura digital  [Aquí](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Rutas%20de%20Investigacion/Z2P1_Digital.pdf)
+
+Y a otros documentos como la guía para ensamblar tu zine (en caso de que lo quieras imprimir) y los archivos de impresión:
+
+- [Guía de impresión del zine](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Guia_Impresion_Zine.MD)
+- [Archivo de impresión](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Rutas%20de%20Investigacion/Z2P1_Impresion.pdf)
+
+
+---
+
+## 🧩 Imágenes usadas
+
+Todas las imagenes empleadas para ilustrar este zine fueron recuperadas de Public Domain Review, si te interesa má pudes consultar las imagenes empleadas y sus respoectivos enlaces [Aquí](https://github.com/PhilosophyHubio/experiencias-documentacion/tree/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes#readme)
+
+Zines/Rutas de Investigacion/Imágenes/Im3.png
+
+![Pagina2-3](Zines/Rutas de Investigacion/Imágenes/Im3.png)
+
+---
+
 ## 🌟 Otros proyectos
 
-Texto...
+- [PhilosophyHub](#)
 
 ---
 
 ## 🤝 Comunidad
 
-Sigue nuestro proyecto en Mastodon con el hashtag [#PE203625](liga)
+Sigue nuestro proyecto en Mastodon con el hashtag [#PE203625](https://mastodon.social/tags/pe203625)
 
-> 💡 **Tip:** Consulta la [página](https://github.com/...) para ver otros de nuestros proyectos.
+> 💡 **Tip:** Consulta la [página](https://github.com/PhilosophyHubio/experiencias-documentacion) para ver otros de nuestros proyectos.
 
 ---
 
 ## ⚖️ Licencia y agradecimientos
 
-La informaci[on pertinente a las imágenes empleadas estan disponibles en [aqui](https://github.com/PhilosophyHubio/experiencias-documentacion/tree/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes)
-
-Este proyecto está bajo la licencia CC01.  
+Este proyecto está bajo la licencia MIT.  
 ¡Úsalo, mejora y comparte!  
-
-[![CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
 
