@@ -55,7 +55,7 @@ Todas las imagenes empleadas para ilustrar este zine fueron recuperadas de Publi
 
 Zines/Rutas de Investigacion/Imágenes/Im3.png
 
-![Pagina2-3](Zines/Rutas de Investigacion/Imágenes/Im3.png)
+![Imágenes_Empleadas](https://github.com/PhilosophyHubio/experiencias-documentacion/raw/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes/Im3.png)
 
 ---
 
@@ -82,6 +82,7 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
 
 
