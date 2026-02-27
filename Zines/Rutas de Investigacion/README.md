@@ -51,7 +51,7 @@ Y a otros documentos como la guía para ensamblar tu zine (en caso de que lo qui
 
 ## 🧩 Imágenes usadas
 
-Todas las imagenes empleadas para ilustrar este zine fueron recuperadas de Public Domain Review, si te interesa má pudes consultar las imagenes empleadas y sus respoectivos enlaces [Aquí](https://github.com/PhilosophyHubio/experiencias-documentacion/tree/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes#readme)
+Todas las imagenes empleadas para ilustrar este zine fueron recuperadas de Public Domain Review, si te interesa má pudes consultar las imagenes empleadas y sus respectivos enlaces [Aquí](https://github.com/PhilosophyHubio/experiencias-documentacion/tree/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes#readme)
 
 
 ![Imágenes_Empleadas](https://github.com/PhilosophyHubio/experiencias-documentacion/raw/main/Zines/Rutas%20de%20Investigacion/Im%C3%A1genes/Im3.png)
@@ -81,6 +81,7 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
 
 
