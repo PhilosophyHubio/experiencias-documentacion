@@ -42,14 +42,14 @@ Zenodo: (esta liga contiene tambien el DOI de la publicacion :D )
 - Segunda Parte:  https://doi.org/10.5281/zenodo.17538340
 
 Github: 
-- Primera Parte ([liga])
-- Segunda Parte ([liga])
+- Primera Parte  [Aquí](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Primera%20parte/Z1P1_Digital.pdf)
+- Segunda Parte  [Aquí](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Segunda%20parte/Z1P2_Digital.pdf)
 
 Y a otros documentos como la guía para ensamblar tu zine (en caso de que lo quieras imprimir) y los archivos de impresión:
 
 - [Guía de impresión del zine](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Guia_Impresion_Zine.MD)
-- Primera Parte - Archivos de impresión ([liga])
-- Segunda Parte - Archivos de impresión ([liga])
+- Primera Parte - Archivos de impresión [liga](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Primera%20parte/Z1P1_Impresion.pdf)
+- Segunda Parte - Archivos de impresión [liga](https://github.com/PhilosophyHubio/experiencias-documentacion/blob/main/Zines/Como%20sobrevivir%20a%20tu%20bibliografia/Segunda%20parte/Z1P2_Impresion.pdf)
 
 ---
 
@@ -80,7 +80,7 @@ Aquí están las ligas recomendadas en el zine, además de otros recursos que pu
 
 Sigue nuestro proyecto en Mastodon con el hashtag [#PE203625](https://mastodon.social/tags/pe203625)
 
-> 💡 **Tip:** Consulta la [página](https://github.com/...) para ver otros de nuestros proyectos.
+> 💡 **Tip:** Consulta la [página](https://github.com/PhilosophyHubio/experiencias-documentacion) para ver otros de nuestros proyectos.
 
 ---
 
@@ -93,6 +93,7 @@ Este proyecto está bajo la licencia MIT.
 Agradecemos el financiamiento de este proyecto a la UNAM-DGAPA, a través del proyecto PAPIME PE203625.
 
 ---
+
 
 
 
